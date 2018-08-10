@@ -1,0 +1,14 @@
+TRUNCATE TABLE tb_register;
+TRUNCATE TABLE tb_register_fix;
+TRUNCATE TABLE tb_pax;
+TRUNCATE TABLE tb_pax_extra;
+TRUNCATE TABLE tb_ktp;
+TRUNCATE TABLE tb_ktp_extra;
+TRUNCATE TABLE tb_passport;
+TRUNCATE TABLE tb_passport_extra;
+TRUNCATE TABLE tb_scan;
+TRUNCATE TABLE tb_scan_extra;
+TRUNCATE TABLE tb_pax_arrival;
+TRUNCATE TABLE tb_pax_arrival_extra;
+TRUNCATE TABLE tb_pax_departure;
+TRUNCATE TABLE tb_pax_departure_extra;
