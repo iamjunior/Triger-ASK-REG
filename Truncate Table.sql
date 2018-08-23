@@ -12,3 +12,18 @@ TRUNCATE TABLE tb_pax_arrival;
 TRUNCATE TABLE tb_pax_arrival_extra;
 TRUNCATE TABLE tb_pax_departure;
 TRUNCATE TABLE tb_pax_departure_extra;
+TRUNCATE TABLE tb_promark;
+
+TRUNCATE TABLE tlog_pax;
+TRUNCATE TABLE tlog_pax_extra;
+TRUNCATE TABLE tlog_ktp;
+TRUNCATE TABLE tlog_ktp_extra;
+TRUNCATE TABLE tlog_passport;
+TRUNCATE TABLE tlog_passport_extra;
+TRUNCATE TABLE tlog_scan;
+TRUNCATE TABLE tlog_scan_extra;
+TRUNCATE TABLE tlog_pax_arrival;
+TRUNCATE TABLE tlog_pax_arrival_extra;
+TRUNCATE TABLE tlog_pax_departure;
+TRUNCATE TABLE tlog_pax_departure_extra;
+TRUNCATE TABLE tlog_promark;
