@@ -27,3 +27,4 @@ TRUNCATE TABLE tlog_pax_arrival_extra;
 TRUNCATE TABLE tlog_pax_departure;
 TRUNCATE TABLE tlog_pax_departure_extra;
 TRUNCATE TABLE tlog_promark;
+TRUNCATE TABLE tlog_event;
